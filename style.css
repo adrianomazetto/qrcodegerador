@@ -58,4 +58,5 @@ body{
     border-radius: 5px;
     font-family: Poppins;
     font-weight: bold;
+    cursor: pointer;
 }
